@@ -123,7 +123,8 @@ https://github.com/
 ### Image sytax
 
 <!-- ![profile](./images/me.jpg) -->
-<img src="./images/me1.JPG" width="400" title="image"/>
+<img src="./images/me1.jpg" width="400" title="image"/>
+
 😊
 
 <br/>
@@ -140,4 +141,3 @@ https://github.com/
 
 [websitelink]: https://github.com/
 [facebooklink]: https://www.facebook.com/Hasination12/
-
