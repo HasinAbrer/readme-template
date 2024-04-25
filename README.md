@@ -1,35 +1,34 @@
 <!--markdown tutorial-->
 
-Anisul Islam<br/>
+Hasin Abrer<br/>
 This is second line
 
 ---
 
-# Anisul Islam
+# Hasin Abrer
 
-## Anisul Islam
+## Hasin Abrer
 
-### Anisul Islam
+### Hasin Abrer
 
-#### Anisul Islam
+#### Hasin Abrer
 
-##### Anisul Islam
+##### Hasin Abrer
 
-###### Anisul Islam
+###### Hasin Abrer
 
-<p>This is anisul islam. I am 31 years old. I just finished my masters at Tampere University</p>
+<p>This is Hasin Abrer. I am 23 years old.</p>
 
 <br/>
-
-### italic text
+### Italic Text
 
 _This is an italic text_
 
 <br/>
 
-### bold text
+### Bold Text
 
-**This is an italic text**
+**This is an bold text**
 
 <br/>
 
@@ -57,18 +56,18 @@ _This is an italic text_
 
 ```html
 <html>
-  <head> </head>
+  <head></head>
   <body></body>
 </html>
 ```
 
-```css
+```Css
 head {
   background-color: green;
 }
 ```
 
-```javascript
+```Javascript
 console.log("hello");
 ```
 
@@ -102,29 +101,29 @@ console.log("hello");
 
 <br/>
 
-### automatic link
+### Automatic link
 
-http://www.studywithanis.com
+https://github.com/
 
-### disable link
+### Disable link
 
-`http://www.studywithanis.com`
-
-### markdown link sytax
-
-[studywithanis](http://www.studywithanis.com)
+`https://github.com/`
 
 ### markdown link sytax
 
-[studywithanis][websitelink]
+[Github](https://github.com/)
+
+### Markdown link sytax
+
+[Github][websitelink]
 [facebook][facebooklink]
 
 <br/>
 
-### image sytax
+### Image sytax
 
 <!-- ![profile](./images/me.jpg) -->
-<img src="./images/me.JPG" width="400" title="profile image"/>
+<img src="./images/me1.JPG" width="400" title="image"/>
 😊
 
 <br/>
@@ -133,12 +132,12 @@ http://www.studywithanis.com
 
 | Name         | Email                  |
 | ------------ | ---------------------- |
-| Anisul Islam | Text is here           |
-| Anisul Islam | anisul2010@yahoo.co.uk |
-| Anisul Islam | Text is here           |
+| Hasin Abrer | Text is here           |
+| Hasin Abrer | hasinjunior12@gmail.com |
+| Hasin Abrer | Text is here           |
 
 <!-- all link is here -->
 
-[websitelink]: http://www.studywithanis.com
-[facebooklink]: https://www.facebook.com/studywithanis
+[websitelink]: https://github.com/
+[facebooklink]: https://www.facebook.com/Hasination12/
 
